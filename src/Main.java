@@ -14,6 +14,7 @@ public class Main {
         Hero h2 = new Hero();
         System.out.println(h2.name);
 
+
         /*
         //1.勇者を生成
         Hero h = new Hero("ミナト");
